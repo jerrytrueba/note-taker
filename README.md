@@ -4,7 +4,8 @@
 For this project, we had to create a Note Taker using express.js, node.js, and Heroku. We have been provided with some starter code for the front end of the application and I was tasked with completing the back end of the code.
 
 ## Screenshot of the Live Note Taker Application
-
+![./public/assets/main.png]
+![./public/assets/example.png]
 
 ## Applications Used
 1. Express
